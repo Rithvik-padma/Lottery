@@ -31,10 +31,4 @@ contract Lottery{
         store.transfer(0.2 ether);
         participants = new address payable[](0);
     }
-
-
-
-
-
-
 }
